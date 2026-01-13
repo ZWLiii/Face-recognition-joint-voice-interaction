@@ -1,0 +1,32 @@
+{
+  "person1": {
+    "key": "dxs",
+    "type": "owner",
+    "image": "FaceDetection/images/users/person1.jpg",
+    "text": "dxswelcome.mp3"
+  },
+  "person2": {
+    "key": "zwl",
+    "type": "guest",
+    "image": "FaceDetection/images/users/person2.jpg",
+    "text": "zwlwelcome.mp3"
+  },
+  "person3": {
+    "key": "lq",
+    "type": "guest",
+    "image": "FaceDetection/images/users/person3.jpg",
+    "text": "lqwelcome.mp3"
+  },
+  "person4": {
+    "key": "cjx",
+    "type": "owner",
+    "image": "FaceDetection/images/users/person4.jpg",
+    "text": "cjxwelcome.mp3"
+  },
+  "person5": {
+    "key": "pzy",
+    "type": "guest",
+    "image": "FaceDetection/images/users/person5.jpg",
+    "text": "pzywelcome.mp3"
+  }
+}
